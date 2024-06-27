@@ -1,6 +1,5 @@
 # LinuxBackupScript
-Linux Backup Script
-Linux backup script project
+Linux Backup Script Project
 I created a vm in AWS using EC2.
 I connected to the VM using the built in browser Ec2 Instance Connect
 I created the backup script in nano assigning variables for the source directory and the backup directory.
