@@ -10,6 +10,6 @@ I also had the script echo an exit code so that I knew it ran correctly.
 
 Next, I created a backup folder called mybackup and a file 1. I had already set the mybackupfolder as the destination for the backup.
 After making the script runnable with chmod +x, I ran the script.
-Then I navigated to my backupfolder and listed the contents and confirmed I saw my backup file.
+Then I navigated to my backupfolder and listed the contents and confirmed I saw my backupfile.
 
 ![image](https://github.com/610jackson/LinuxBackupScript/blob/main/Picture1.png)
